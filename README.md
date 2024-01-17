@@ -50,7 +50,7 @@
     < img  alinhar = " centro "  altura = " 30 "  largura = " 40 "  alt = " nodejs-icon "  src = " https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg " >
    </div> _ _
 
-
+</div> _ _
   < h1  align = " center " >Redes Sociais</ h1 >
     <a href=" mailto: beltramossm@hotmail.com " > _  _ _ _ _ _ _
       < img  largura = " 30 "  src = " hotmail.svg " >
