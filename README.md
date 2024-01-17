@@ -1,6 +1,4 @@
-### Olá sou o Alessandro Beltramo. 👋
-
-# Overclock-Performance
+</div> _ _
 <h1 align="center">Olá👋, eu sou Alessandro Beltramo.</h1>
 <h3 align="center">Apaixonado por projetos na área de desenvolvimento de software.</h3>
 <div> _ _
@@ -8,6 +6,7 @@
   < img  height = " 180em "  src = " https://github-readme-stats.vercel.app/api/top-langs/?usernamAlebeltramoGF&layout=compact&langs_count=16&theme=great-gatsby " />
 </div> _ _
 
+</div> _ _
 < div  estilo = " display : flex ; justificar-conteúdo : espaço entre ; " > < br >
   < img  alinhar = " esquerda " altura = " 150 "  alt = " tempo de codificação "  src = " code.gif " >
   < img  alinhar = " centro "  altura = " 30 "  largura = " 40 "  alt = " js-icon "   src = " https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain .svg " >
