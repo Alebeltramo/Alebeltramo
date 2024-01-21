@@ -7,7 +7,7 @@
 
 ![Alessandro Beltramo GitHub stats](https://github-readme-stats.vercel.app/api?username=Alebeltramo&show_icons=true&theme=dracula&count_private=true)
 
-![code-ezgif com-resize](https://github.com/Alebeltramo/Alebeltramo/assets/130994708/9c38c26c-4885-4d65-90a8-a8b900eb9eab)
+![code-ezgif com-resize (4)](https://github.com/Alebeltramo/Alebeltramo/assets/130994708/61683884-c4ac-4137-a8b7-afff2042cb5f)
 
 
 ## Tecnologias que eu uso no meu dia
@@ -17,4 +17,5 @@
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=Cpt&logoColor=black" />
   <img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Cpt&logoColor=black" />
+  <img align="center" alt="Microsoft" src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=Cpt&logoColor=black" />
 
