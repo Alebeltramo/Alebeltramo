@@ -12,11 +12,6 @@
 ![Alessandro Beltramo GitHub stats](https://github-readme-stats.vercel.app/api?username=Alebeltramo&show_icons=true&theme=dracula&count_private=true)
 
 ![code-ezgif com-resize (7)](https://github.com/Alebeltramo/Alebeltramo/assets/130994708/90c2680d-8fdd-44e6-9554-0125ba30d388)
-
-
-
-
-
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
