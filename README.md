@@ -4,14 +4,28 @@
 
 ## Olá! Eu sou o Alessandro Beltramo 🖐️
 
-
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@overclockperformance)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@beltramossm?lang=pt-BR)
 [![Youtube](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/alessandro-beltramo/)
+![API](https://github.com/Alebeltramo/Alebeltramo/assets/130994708/49b9667f-2a50-40f0-9dc8-fa7331d87034)
 
-![Alessandro Beltramo GitHub stats](https://github-readme-stats.vercel.app/api?username=Alebeltramo&show_icons=true&theme=dracula&count_private=true)
+<div  align="Right"> 
+  <div style="display: inline_block"><br>
+    <img align="left" height="250" alt="coding-time" src="code.gif">
 
 ![code-ezgif com-resize (7)](https://github.com/Alebeltramo/Alebeltramo/assets/130994708/90c2680d-8fdd-44e6-9554-0125ba30d388)
+
+<div  align="Left"> 
+  <div style="display: inline_block"><br>
+    <img align="left" height="250" alt="coding-time" src="code.gif">
+    
+![Alessandro Beltramo GitHub stats](https://github-readme-stats.vercel.app/api?username=Alebeltramo&show_icons=true&theme=dracula&count_private=true)
+
+<div  align="center"> 
+  <div style="display: inline_block"><br>
+    <img align="left" height="250" alt="coding-time" src="code.gif">
+
+    
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
@@ -20,4 +34,7 @@
   <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=Cpt&logoColor=black" />
   <img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Cpt&logoColor=black" />
   <img align="center" alt="Microsoft" src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=Cpt&logoColor=black" />
+
+ 
+
 
