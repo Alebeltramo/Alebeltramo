@@ -7,18 +7,12 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@overclockperformance)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@beltramossm?lang=pt-BR)
 [![Youtube](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/alessandro-beltramo/)
-![API](https://github.com/Alebeltramo/Alebeltramo/assets/130994708/49b9667f-2a50-40f0-9dc8-fa7331d87034)
 
-<div  align="Right"> 
-  <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
+![API](https://github.com/Alebeltramo/Alebeltramo/assets/130994708/2ccaf53f-00e9-4c5e-bd98-d40c42407051)
 
 ![code-ezgif com-resize (7)](https://github.com/Alebeltramo/Alebeltramo/assets/130994708/90c2680d-8fdd-44e6-9554-0125ba30d388)
 
-<div  align="Left"> 
-  <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
-    
+
 ![Alessandro Beltramo GitHub stats](https://github-readme-stats.vercel.app/api?username=Alebeltramo&show_icons=true&theme=dracula&count_private=true)
 
 <div  align="center"> 
