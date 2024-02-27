@@ -18,7 +18,7 @@
 
 <div align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="225" alt="coding-time" src="code.gif">
+    <img align="left" height="200" alt="coding-time" src="code.gif">
 
 ![Alessandro Beltramo GitHub stats](https://github-readme-stats.vercel.app/api?username=Alebeltramo&show_icons=true&theme=dracula&count_private=true)
 
