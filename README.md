@@ -9,11 +9,11 @@
 [![Youtube](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/alessandro-beltramo/)
     
 </div>
-  <img align="right" height="200" alt="API" src="https://github.com/Alebeltramo/Alebeltramo/assets/130994708/a3ec739f-81ba-4793-8ae8-8c809a81b0da">
+  <img align="right" height="210" alt="API" src="https://github.com/Alebeltramo/Alebeltramo/assets/130994708/a3ec739f-81ba-4793-8ae8-8c809a81b0da">
 </div>
     
 <div align="center">
-  <img height="200" alt="code-ezgif" src="https://github.com/Alebeltramo/Alebeltramo/assets/130994708/90c2680d-8fdd-44e6-9554-0125ba30d388">
+  <img height="210" alt="code-ezgif" src="https://github.com/Alebeltramo/Alebeltramo/assets/130994708/90c2680d-8fdd-44e6-9554-0125ba30d388">
 </div>
 
 <div align="center"> 
