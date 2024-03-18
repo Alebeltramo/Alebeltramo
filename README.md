@@ -17,7 +17,7 @@
 </div>
 
 <div align="center">
-  <img align="right" height="210" alt="API" src="https://github.com/Alebeltramo/Alebeltramo/assets/130994708/a3ec739f-81ba-4793-8ae8-8c809a81b0da">
+  <img align="left" height="210" alt="API" src="https://github.com/Alebeltramo/Alebeltramo/assets/130994708/a3ec739f-81ba-4793-8ae8-8c809a81b0da">
 </div>
 
 <div align="center">
@@ -25,7 +25,7 @@
 </div>
 
 <div align="center">
-  <img align="left" height="250" alt="coding-time" src="code.gif">
+  <img align="right" height="250" alt="coding-time" src="code.gif">
 
   <h2>Estatísticas GitHub</h2>
 
